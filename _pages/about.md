@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, thanks for stopping by my page. I am from Hong Kong and my name is Nga-Man Wong. I am currently a third year student at The Education University of Hong Kong (EduHK), pursueing a Bachelor of Education in Business, Accounting and Financial Study. My research interests include Computational Social Science and Curriculum Design. I am looking for PhD position for Fall, 2027. You can find my [CV](images/resume.pdf) here.
+Hi, thanks for stopping by my page. I am from Hong Kong and my name is Nga-Man Wong. I am currently a third year student at The Education University of Hong Kong (EduHK), pursuing a Bachelor of Education in Business, Accounting and Financial Study. My research interests include Computational Social Science and Curriculum Design. I am looking for PhD position for Fall, 2027. You can find my [CV](images/resume.pdf) here.
 
 <ul>
-  <li><strong>Core Course:</strong>  Curriculum and Accessmen (A), Philosophical and Socio-Issue in Education (A-), Financial Accounting (A-).</li>
+  <li><strong>Core Course:</strong>  Curriculum and Accessment (A), Philosophical and Socio-Issue in Education (A-), Financial Accounting (A-).</li>
   <li><strong>Skill:</strong> Excel, Python (limited).</li>
   <li><strong>Language:</strong> English (fluent), Cantonese (native), Mandarin (native).</li>
 </ul>
