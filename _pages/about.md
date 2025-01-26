@@ -30,7 +30,7 @@ Hi, thanks for stopping by my page. I am from Hong Kong and my name is Nga-Man W
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 My paper "Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem" is accepted by ACM Internation World Wide Web Conference 2025 (WWW'25) short paper track. 
-- *2023.01*: &nbsp;🎉🎉 I receive the AIA Scholarship.
+- *2023.03*: &nbsp;🎉🎉 I receive the AIA Scholarship by American International Assurance Co., Ltd.
   
 # 📝 Publications 
 
@@ -48,8 +48,9 @@ Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 </div>
 
 # 🎖 Honors and Awards
-- *2023.01* AIA Scholarship.
+- *2023.06* Global Learning Enhancement Fund by The Education University of Hong Kong.
+- *2023.03* AIA Scholarship by American International Assurance Co., Ltd.
 
 
 # 💻 Industrial Internships
-- *2024.07 - 2024.09*, [CITIC aiBank Corporation Limited](https://www.group.citic/en/Diversified_Portfolio/Finance/Bank/), Tianjin, China.
+- *2024.07 - 2024.09*, [Cheersyou International Consulting Inc.](https://www.cheersyou.com/en/about-team), Tianjin, China.
