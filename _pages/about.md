@@ -40,7 +40,7 @@ Hi, thanks for stopping by my page. I am from Hong Kong and my name is Nga-Man W
 [Bridging Culture and Finance: A Multimodal Analysis of
 Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 
-**Hou-Wan Long**, Nga-Man Wong, Wei Cai
+Hou-Wan Long, **Nga-Man Wong**, Wei Cai
 
 **Introduction**
 - This paper introduces the Coin-Meme dataset and a multimodal framework to analyze memecoins, exploring their cultural themes, community interactions, and financial behaviors within the Web3 ecosystem.
